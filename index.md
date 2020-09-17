@@ -1,5 +1,5 @@
 # Commands and Terminology
-    Repository [link](./Repository.md)
+    Repository [link](Repository.md)
     Clone [link]
     Fork [link]
     Branch [link]
