@@ -1,6 +1,6 @@
 # Commands and Terminology
 
-    Repository [link](../Repository.html)
+    Repository [link](./Repository.md)
 
     Clone [link]
     Fork [link]
