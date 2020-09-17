@@ -1,5 +1,5 @@
 # Commands and Terminology
-    Repository [link](https://mb535.github.io/IS601-Team-Project-1---Git-Collaboration/Repository.html)
+    Repository [link](../Repository.html)
     Clone [link]
     Fork [link]
     Branch [link]
