@@ -1,9 +1,8 @@
-# Commands and Terminology
+# Commands and Terminology 
 
-    Repository [link](Repository.md)
-
-    Clone 
-    Fork 
+   [Repository](Repository.md)
+   [Clone]
+    [Fork] 
     Branch 
     Commit 
     Merge 
