@@ -11,3 +11,6 @@
     Remote Add / Remove / Show [link]
     Status [link]
     Master Branch [link]
+    
+# Changelog
+    [link](README.MD)
