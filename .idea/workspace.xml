@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Feature: created readme file">
-      <change afterPath="$PROJECT_DIR$/Repository.md" afterDir="false" />
+    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Feature:  Feature: created readme file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Repository" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +37,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600201471815</updated>
       <workItem from="1600201474480" duration="3325000" />
+      <workItem from="1600227959698" duration="599000" />
+      <workItem from="1600299819752" duration="1674000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: created readme file">
       <created>1600204708256</created>
@@ -46,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600204708256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feature:  Feature: created readme file">
+      <created>1600205513093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600205513093</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,6 +62,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: created readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: created readme file" />
+    <MESSAGE value="Feature:  Feature: created readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature:  Feature: created readme file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600205522718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600205522718" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600206238928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600206238928" />
   </component>
 </project>

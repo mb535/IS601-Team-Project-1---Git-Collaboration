@@ -1,6 +1,6 @@
 
 # Commands and Terminology
-    Repository [link]
+    Repository [link](Repository.md)
     Clone [link]
     Fork [link]
     Branch [link]
@@ -18,3 +18,4 @@
 
 #Changelog
 Mervin - Feature: created readme file
+Mervin - Fix: Updated link of repository
