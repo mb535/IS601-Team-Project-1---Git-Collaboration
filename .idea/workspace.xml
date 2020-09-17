@@ -32,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Repository" />
+        <entry key="$PROJECT_DIR$" value="Clone" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,7 +58,7 @@
       <updated>1600201471815</updated>
       <workItem from="1600201474480" duration="3325000" />
       <workItem from="1600227959698" duration="599000" />
-      <workItem from="1600299819752" duration="3831000" />
+      <workItem from="1600299819752" duration="4638000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: created readme file">
       <created>1600204708256</created>
@@ -130,7 +130,35 @@
       <option name="project" value="LOCAL" />
       <updated>1600309078869</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Fix: update links">
+      <created>1600309175706</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309175706</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix: update links">
+      <created>1600309210359</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309210359</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fix: update links">
+      <created>1600309670277</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309670277</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix: update links">
+      <created>1600309726262</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309726262</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,10 +186,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Fix: update links" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600309081629">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600309728615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600309081629" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600309728615" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600304789210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
