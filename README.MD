@@ -1,7 +1,7 @@
 # Team Member
     Mervin Bernales
 # Commands and Terminology
-    [link](./index.md)
+    [link](index.md)
 
 
 

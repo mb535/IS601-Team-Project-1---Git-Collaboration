@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Fix: update links">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Fix: update links" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +54,7 @@
       <updated>1600201471815</updated>
       <workItem from="1600201474480" duration="3325000" />
       <workItem from="1600227959698" duration="599000" />
-      <workItem from="1600299819752" duration="3509000" />
+      <workItem from="1600299819752" duration="3831000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: created readme file">
       <created>1600204708256</created>
@@ -114,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600308351522</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Fix: update links">
+      <created>1600308786588</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600308786588</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix: update links">
+      <created>1600309078869</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309078869</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,10 +154,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Fix: update links" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600308361329">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600309081629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600308361329" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600309081629" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600304789210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
