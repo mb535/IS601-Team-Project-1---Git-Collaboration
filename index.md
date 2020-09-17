@@ -1,18 +1,18 @@
 # Commands and Terminology
 
-    Repository [link](./Repository.md)
+    Repository [link](Repository.md)
 
-    Clone [link]
-    Fork [link]
-    Branch [link]
-    Commit [link]
-    Merge [link]
-    Checkout [link]
-    Push [link]
-    Pull [link]
-    Remote Add / Remove / Show [link]
-    Status [link]
-    Master Branch [link]
+    Clone 
+    Fork 
+    Branch 
+    Commit 
+    Merge 
+    Checkout 
+    Push 
+    Pull 
+    Remote Add / Remove / Show 
+    Status 
+    Master Branch 
     
 # Changelog
     [link](README.MD)
