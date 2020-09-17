@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Fix: updated links">
+    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Fix: updated links and formatting">
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1600318150901</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Fix: updated links and formatting">
+      <created>1600318577356</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1600318577356</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fix: updated links and formatting">
+      <created>1600318638151</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1600318638151</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,13 +217,14 @@
     <MESSAGE value="Fix: Formatting" />
     <MESSAGE value="Fix: update links" />
     <MESSAGE value="Fix: updated links" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: updated links" />
+    <MESSAGE value="Fix: updated links and formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: updated links and formatting" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600318161291">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600318640186">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600318161291" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600318640186" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600304789210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
