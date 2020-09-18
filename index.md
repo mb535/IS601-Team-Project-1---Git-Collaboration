@@ -1,7 +1,7 @@
 # Commands and Terminology 
    - [Repository](Repository.md)
    - [Clone](Clone.md)
-   - Fork
+   - [Fork](Fork.md)
    - Branch
    - Commit 
    - Merge 
