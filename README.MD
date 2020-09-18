@@ -11,4 +11,5 @@
     Mervin - Fix: Updated link of repository
     Mervin - Fix: Added index.md and formatting
     Mervin - Fix: Updating links
+    Mervin - Feature: added repository branch and definition
     Mervin - Feature: added Clone branch and definition
