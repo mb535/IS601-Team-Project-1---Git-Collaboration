@@ -1,7 +1,7 @@
 # Team Member (GithubID)
     Mervin Bernales (mb535)
 # Commands and Terminology
-    [link](index.md)
+   - [link](index.md)
 
 
 
