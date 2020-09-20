@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Feature: created readme file">
-      <change afterPath="$PROJECT_DIR$/Repository.md" afterDir="false" />
+    <list default="true" id="e39a87c7-442e-419c-aa23-bb03f8f43dd1" name="Default Changelist" comment="Fix: updated definition">
+      <change afterPath="$PROJECT_DIR$/Pull.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +33,12 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Fork" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="7310c996-848d-40cc-a703-4f98f05ef2f1" />
+  <component name="JupyterTrust" id="20131151-e8bb-4f0f-a356-73c9f72d1b3f" />
   <component name="ProjectId" id="1hYwjvqQvYCsuNFASFFbITr6PH9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,16 +48,27 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="" />
+      <changelist id="e39a87c7-442e-419c-aa23-bb03f8f43dd1" name="Default Changelist" comment="Fix: updated definition" />
       <created>1600201471815</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600201471815</updated>
       <workItem from="1600201474480" duration="3325000" />
+      <workItem from="1600227959698" duration="599000" />
+      <workItem from="1600299819752" duration="4638000" />
+      <workItem from="1600618771216" duration="313000" />
+      <workItem from="1600622771873" duration="277000" />
+      <workItem from="1600625794676" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: created readme file">
       <created>1600204708256</created>
@@ -46,14 +77,212 @@
       <option name="project" value="LOCAL" />
       <updated>1600204708256</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feature:  Feature: created readme file">
+      <created>1600205513093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600205513093</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix: Updated link of repository">
+      <created>1600304965336</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600304965336</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix: formatting">
+      <created>1600305029068</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600305029068</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fix: formatting">
+      <created>1600305055425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600305055425</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feature: Added index.md">
+      <created>1600307933988</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600307933988</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix: Formatting">
+      <created>1600308191014</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600308191014</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix: update links">
+      <created>1600308351522</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600308351522</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fix: update links">
+      <created>1600308786588</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600308786588</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fix: update links">
+      <created>1600309078869</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309078869</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix: update links">
+      <created>1600309175706</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309175706</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix: update links">
+      <created>1600309210359</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309210359</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fix: update links">
+      <created>1600309670277</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309670277</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix: update links">
+      <created>1600309726262</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600309726262</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fix: updated links">
+      <created>1600311597488</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600311597488</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix: updated links">
+      <created>1600317957431</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600317957431</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fix: updated links">
+      <created>1600318150901</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1600318150901</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fix: updated links and formatting">
+      <created>1600318577356</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1600318577356</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fix: updated links and formatting">
+      <created>1600318638151</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1600318638151</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fix: updated links and formatting">
+      <created>1600318683271</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1600318683271</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fix: updated links and formatting">
+      <created>1600395323345</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1600395323346</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fix: updated readme and changelog">
+      <created>1600395530142</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1600395530142</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Feature: Added branch definition">
+      <created>1600563206916</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1600563206916</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fix: updated definition">
+      <created>1600576453109</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1600576453109</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: created readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: created readme file" />
+    <MESSAGE value="Feature:  Feature: created readme file" />
+    <MESSAGE value="Fix: Updated link of repository" />
+    <MESSAGE value="Fix: formatting" />
+    <MESSAGE value="Feature: Added index.md" />
+    <MESSAGE value="Fix: Formatting" />
+    <MESSAGE value="Fix: update links" />
+    <MESSAGE value="Fix: updated links" />
+    <MESSAGE value="Fix: updated links and formatting" />
+    <MESSAGE value="Fix: updated readme and changelog" />
+    <MESSAGE value="Feature: Added branch definition" />
+    <MESSAGE value="Fix: updated definition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: updated definition" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600618777804">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1600618777804" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600576457396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600576457396" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600576421904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600576421904" />
   </component>
 </project>
