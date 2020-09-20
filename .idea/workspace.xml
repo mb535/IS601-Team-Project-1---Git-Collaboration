@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Feature: Added branch definition" />
+    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Fix: updated changelogs">
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600563206916</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Fix: updated changelogs">
+      <created>1600571375764</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1600571375764</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,13 +255,14 @@
     <MESSAGE value="Fix: updated links and formatting" />
     <MESSAGE value="Fix: updated readme and changelog" />
     <MESSAGE value="Feature: Added branch definition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added branch definition" />
+    <MESSAGE value="Fix: updated changelogs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: updated changelogs" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600563214539">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600571381467">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600563214539" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600571381467" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600571317235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
