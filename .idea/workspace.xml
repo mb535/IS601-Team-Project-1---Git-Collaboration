@@ -20,6 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e39a87c7-442e-419c-aa23-bb03f8f43dd1" name="Default Changelist" comment="Fix: updated definition">
+      <change afterPath="$PROJECT_DIR$/Merge.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +38,7 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="7310c996-848d-40cc-a703-4f98f05ef2f1" />
+  <component name="JupyterTrust" id="20131151-e8bb-4f0f-a356-73c9f72d1b3f" />
   <component name="ProjectId" id="1hYwjvqQvYCsuNFASFFbITr6PH9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,11 +48,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="" />
+      <changelist id="e39a87c7-442e-419c-aa23-bb03f8f43dd1" name="Default Changelist" comment="Fix: updated definition" />
       <created>1600201471815</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -57,6 +66,7 @@
       <workItem from="1600201474480" duration="3325000" />
       <workItem from="1600227959698" duration="599000" />
       <workItem from="1600299819752" duration="4638000" />
+      <workItem from="1600618771216" duration="313000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: created readme file">
       <created>1600204708256</created>
@@ -260,6 +270,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Fix: updated definition" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600618777804">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1600618777804" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600576457396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
