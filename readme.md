@@ -21,3 +21,12 @@
     Mervin - Feature: added Commit branch and definition
     Mervin - Fix: Updating links
     Mervin - Fix: formatting and updating definition
+    Sachin - Feature: added Merge branch and definition
+    Sachin - Feature: added information about Git checkout
+    Sachin - Fix: Added information about the -b option
+    Sachin - Feature: added git push information
+    Sachin - Feature: added git pull information
+    Sachin - Feature: added information about Remote Add/Remove/Show
+    Sachin - Feature: added git status information
+    Sachin - Feature: added information about the master branch.
+    Mervin - Feature: added explanation of GitFlow
