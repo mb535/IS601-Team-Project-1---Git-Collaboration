@@ -10,7 +10,7 @@
    - [Pull](Pull.md)
    - [Remote Add / Remove / Show](Remote.md) 
    - [Status](Status.md) 
-   - Master Branch 
+   - [Master Branch](MasterBranch.md) 
     
 # Changelog
    - [link](readme.md)
