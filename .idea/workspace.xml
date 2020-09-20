@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-
+    <list default="true" id="ebaa4b5f-5ff3-4de1-9dfa-d72625a408e7" name="Default Changelist" comment="Feature: Added branch definition" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,11 +28,10 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JupyterTrust" id="7310c996-848d-40cc-a703-4f98f05ef2f1" />
   <component name="ProjectId" id="1hYwjvqQvYCsuNFASFFbITr6PH9" />
@@ -211,28 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600395530142</updated>
     </task>
-    <task id="LOCAL-00023" summary="Fix: updated readme and changelog">
-      <created>1600396554860</created>
+    <task id="LOCAL-00023" summary="Feature: Added branch definition">
+      <created>1600563206916</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1600396554860</updated>
+      <updated>1600563206916</updated>
     </task>
-    <task id="LOCAL-00024" summary="Feature: Added fork branch and definition">
-      <created>1600396775427</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1600396775427</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Feature: Added fork branch and definition">
-      <created>1600400076695</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1600400076695</updated>
-    </task>
-
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,8 +242,20 @@
     <MESSAGE value="Feature: Added index.md" />
     <MESSAGE value="Fix: Formatting" />
     <MESSAGE value="Fix: update links" />
+    <MESSAGE value="Fix: updated links" />
     <MESSAGE value="Fix: updated links and formatting" />
     <MESSAGE value="Fix: updated readme and changelog" />
-
+    <MESSAGE value="Feature: Added branch definition" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added branch definition" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600563214539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600563214539" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600571317235">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600571317235" />
   </component>
 </project>
