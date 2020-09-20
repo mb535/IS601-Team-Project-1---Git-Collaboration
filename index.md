@@ -7,7 +7,7 @@
    - [Merge](Merge.md) 
    - [Checkout](Checkout.md) 
    - [Push](Push.md) 
-   - Pull 
+   - [Pull](Pull.md)
    - Remote Add / Remove / Show 
    - Status 
    - Master Branch 
