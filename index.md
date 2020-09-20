@@ -6,7 +6,7 @@
    - [Commit](Commit.md)
    - [Merge](Merge.md) 
    - [Checkout](Checkout.md) 
-   - Push 
+   - [Push](Push.md) 
    - Pull 
    - Remote Add / Remove / Show 
    - Status 
