@@ -23,3 +23,5 @@
     Mervin - Fix: formatting and updating definition
     Sachin - Feature: added Merge branch and definition
     Sachin - Feature: added information about Git checkout
+    Sachin - Fix: Added information about the -b option
+    Sachin - Feature: added git push information
