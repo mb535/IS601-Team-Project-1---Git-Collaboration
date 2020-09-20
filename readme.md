@@ -22,3 +22,4 @@
     Mervin - Fix: Updating links
     Mervin - Fix: formatting and updating definition
     Sachin - Feature: added Merge branch and definition
+    Sachin - Feature: added information about Git checkout
