@@ -21,3 +21,4 @@
     Mervin - Feature: added Commit branch and definition
     Mervin - Fix: Updating links
     Mervin - Fix: formatting and updating definition
+    Sachin - Feature: added Merge branch and definition

@@ -4,7 +4,7 @@
    - [Fork](Fork.md)
    - [Branch](Branch.md)
    - [Commit](Commit.md)
-   - Merge 
+   - [Merge](Merge.md) 
    - Checkout 
    - Push 
    - Pull 
