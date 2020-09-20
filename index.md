@@ -1,4 +1,4 @@
-#Introduction:
+# Introduction:
 
 Docker created the industry standard for containers, which are self contained units of software packages that contain the application code and all related dependencies. Packaging and distributing as a package ensures that the code runs and functions reliably and efficiently across different environments.  The container is standalone  and contains everything required for the application to function effectively.
 
