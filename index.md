@@ -18,6 +18,7 @@ Using Git, Docker and automated testing to implement [continuous integration](ht
     - Collaboration make it easier for two or more developers to collaborate on the same feature, because each feature branch is a sandbox where the only changes are the changes necessary to get the new feature working. That makes it very easy to see and follow what each collaborator is doing.
     - Release Staging Area allows new development to get merged back into the develop branch, which is a staging area for all completed features that haven’t yet been released. So when the next release is branched off of develop, it will automatically contain all of the new stuff that has been finished.
     - Support For Emergency Fixes allows branches made from a tagged release called hotfix branches.You can use these to make an emergency change, safe in the knowledge that the hotfix will only contain your emergency fix. There’s no risk that you’ll accidentally merge in new development at the same time.
+
 ## Commands and Terminology 
    - [Repository](Repository.md)
    - [Clone](Clone.md)
