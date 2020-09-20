@@ -1,6 +1,7 @@
 # Team Member (GithubID)
     Mervin Bernales (mb535)
     Sachin Adbe (meahesachin)
+
 # Commands and Terminology
    - [link](index.md)
 
@@ -19,3 +20,4 @@
     Mervin - Fix: Updating links
     Mervin - Feature: added Commit branch and definition
     Mervin - Fix: Updating links
+    Mervin - Fix: formatting and updating definition
