@@ -7,4 +7,7 @@
 
 
 #Example
+    To branch in pycharm, click the bottom-right named master and click +new branch
+    To branch in git bash, use the command: git branch [branchname]
+   Example: `git branch example2`
     
