@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e39a87c7-442e-419c-aa23-bb03f8f43dd1" name="Default Changelist" comment="Fix: updated definition">
-      <change afterPath="$PROJECT_DIR$/GitFlow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="e39a87c7-442e-419c-aa23-bb03f8f43dd1" name="Default Changelist" comment="Fix: updated definition" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -267,7 +263,9 @@
     <MESSAGE value="Fix: updated readme and changelog" />
     <MESSAGE value="Feature: Added branch definition" />
     <MESSAGE value="Fix: updated definition" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: updated definition" />
+    <MESSAGE value="Feature: added explanation of GitFlow" />
+    <MESSAGE value="Fix: updated changelog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: updated changelog" />
   </component>
   <component name="WindowStateProjectService">
     <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600618777804">
