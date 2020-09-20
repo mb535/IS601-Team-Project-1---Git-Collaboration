@@ -2,8 +2,8 @@
    - [Repository](Repository.md)
    - [Clone](Clone.md)
    - [Fork](Fork.md)
-   - Branch
-   - Commit 
+   - [Branch](Branch.md)
+   - [Commit](Commit.md)
    - Merge 
    - Checkout 
    - Push 
