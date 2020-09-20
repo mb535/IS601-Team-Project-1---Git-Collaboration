@@ -25,3 +25,4 @@
     Sachin - Feature: added information about Git checkout
     Sachin - Fix: Added information about the -b option
     Sachin - Feature: added git push information
+    Sachin - Feature: added git pull information
