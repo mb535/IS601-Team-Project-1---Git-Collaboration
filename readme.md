@@ -20,3 +20,4 @@
     Mervin - Fix: Updating links
     Mervin - Feature: added Commit branch and definition
     Mervin - Fix: Updating links
+    Mervin - Fix: formatting and updating definition
