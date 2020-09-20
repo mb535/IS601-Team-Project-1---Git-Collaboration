@@ -9,7 +9,7 @@
    - [Push](Push.md) 
    - [Pull](Pull.md)
    - [Remote Add / Remove / Show](Remote.md) 
-   - Status 
+   - [Status](Status.md) 
    - Master Branch 
     
 # Changelog

@@ -27,3 +27,4 @@
     Sachin - Feature: added git push information
     Sachin - Feature: added git pull information
     Sachin - Feature: added information about Remote Add/Remove/Show
+    Sachin - Feature: added git status information
