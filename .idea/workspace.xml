@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e39a87c7-442e-419c-aa23-bb03f8f43dd1" name="Default Changelist" comment="Fix: updated definition">
+      <change afterPath="$PROJECT_DIR$/GitFlow.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
@@ -31,12 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Fork" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="20131151-e8bb-4f0f-a356-73c9f72d1b3f" />
+  <component name="JupyterTrust" id="7310c996-848d-40cc-a703-4f98f05ef2f1" />
   <component name="ProjectId" id="1hYwjvqQvYCsuNFASFFbITr6PH9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -66,8 +67,6 @@
       <workItem from="1600299819752" duration="4638000" />
       <workItem from="1600618771216" duration="313000" />
       <workItem from="1600622771873" duration="277000" />
-      <workItem from="1600628623710" duration="674000" />
-      <workItem from="1600631646694" duration="1769000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: created readme file">
       <created>1600204708256</created>
@@ -275,6 +274,10 @@
       <screen x="0" y="23" width="2560" height="1337" />
     </state>
     <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1600618777804" />
+    <state x="184" y="86" key="MergeDialog" timestamp="1600637983217">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600637983217" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600576457396">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -283,5 +286,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600576421904" />
+    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1600637979857">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600637979857" />
   </component>
 </project>
