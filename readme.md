@@ -30,3 +30,4 @@
     Sachin - Feature: added git status information
     Sachin - Feature: added information about the master branch.
     Mervin - Feature: added explanation of GitFlow
+    Mervin - Feature: added example of clone
