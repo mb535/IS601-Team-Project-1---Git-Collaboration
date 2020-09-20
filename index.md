@@ -11,13 +11,16 @@ Git, a distributed version control system, enables developers to collaborate eff
 Using Git, Docker and automated testing to implement [continuous integration](https://en.wikipedia.org/wiki/Continuous_integration) enables companies to reduce time to market. New features can be introduced quickly, allowing not only quick reaction to customer demands, but also A/B testing, context labs, focus groups, etc. Developers can concetrate on developing new features and can "trust" the process to rollout their features effectively.
 
 ## GitFlow:
-    GitFlow is a branching model used for collaboration and scaling the development workflow.
-    GitFlow can four key benefits: Parallel Development, Collaboration, Release Staging Area, and Support For Emergency Fixes
+   GitFlow is a branching model used for collaboration and scaling the development workflow.
+   GitFlow can four key benefits: Parallel Development, Collaboration, Release Staging Area, and Support For Emergency Fixes
     
-    - Parallel Development allows developers to isolate new development from finished work. New development (such as features and non-emergency bug fixes) is done in feature branches, and is only merged back into main body of code when the developers is happy that the code is ready for release.
-    - Collaboration make it easier for two or more developers to collaborate on the same feature, because each feature branch is a sandbox where the only changes are the changes necessary to get the new feature working. That makes it very easy to see and follow what each collaborator is doing.
-    - Release Staging Area allows new development to get merged back into the develop branch, which is a staging area for all completed features that haven’t yet been released. So when the next release is branched off of develop, it will automatically contain all of the new stuff that has been finished.
-    - Support For Emergency Fixes allows branches made from a tagged release called hotfix branches.You can use these to make an emergency change, safe in the knowledge that the hotfix will only contain your emergency fix. There’s no risk that you’ll accidentally merge in new development at the same time.
+   - Parallel Development allows developers to isolate new development from finished work. New development (such as features and non-emergency bug fixes) is done in feature branches, and is only merged back into main body of code when the developers is happy that the code is ready for release.
+   
+   - Collaboration make it easier for two or more developers to collaborate on the same feature, because each feature branch is a sandbox where the only changes are the changes necessary to get the new feature working. That makes it very easy to see and follow what each collaborator is doing.
+   
+   - Release Staging Area allows new development to get merged back into the develop branch, which is a staging area for all completed features that haven’t yet been released. So when the next release is branched off of develop, it will automatically contain all of the new stuff that has been finished.
+   
+   - Support For Emergency Fixes allows branches made from a tagged release called hotfix branches.You can use these to make an emergency change, safe in the knowledge that the hotfix will only contain your emergency fix. There’s no risk that you’ll accidentally merge in new development at the same time.
     
 ## Commands and Terminology 
    - [Repository](Repository.md)
