@@ -3,7 +3,7 @@
    - [Clone](Clone.md)
    - [Fork](Fork.md)
    - [Branch](Branch.md)
-   - Commit 
+   - [Commit](Commit.md)
    - Merge 
    - Checkout 
    - Push 
