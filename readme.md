@@ -1,6 +1,7 @@
 # Team Member (GithubID)
     Mervin Bernales (mb535)
     Sachin Adbe (meahesachin)
+
 # Commands and Terminology
    - [link](index.md)
 
