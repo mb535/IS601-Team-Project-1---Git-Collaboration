@@ -31,3 +31,6 @@
     Sachin - Feature: added information about the master branch.
     Mervin - Feature: added explanation of GitFlow
     Mervin - Feature: added example of clone
+    Mervin - Feature: added example of fork
+    Mervin - Feature: added example of branch
+    Mervin - Feature: added example of commit
