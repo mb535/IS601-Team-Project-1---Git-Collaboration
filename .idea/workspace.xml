@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-
+    <list default="true" id="339b0575-5d7f-4f08-ae23-aa89c4f0823f" name="Default Changelist" comment="Fix: typo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitFlow.md" beforeDir="false" afterPath="$PROJECT_DIR$/GitFlow.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +31,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,12 +67,12 @@
       <workItem from="1600618771216" duration="313000" />
       <workItem from="1600622771873" duration="277000" />
     </task>
-    <task id="LOCAL-00001" summary="Feature: created readme file">
-      <created>1600204708256</created>
+    <task id="LOCAL-00001" summary="Fix: typo">
+      <created>1600649708767</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1600204708256</updated>
+      <updated>1600649708767</updated>
     </task>
     <task id="LOCAL-00002" summary="Feature:  Feature: created readme file">
       <created>1600205513093</created>
@@ -162,7 +165,7 @@
       <option name="project" value="LOCAL" />
       <updated>1600309726262</updated>
     </task>
-
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +191,17 @@
     <MESSAGE value="Feature: Added index.md" />
     <MESSAGE value="Fix: Formatting" />
     <MESSAGE value="Fix: update links" />
-
+    <MESSAGE value="Fix: typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix: typo" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600649831737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600649831737" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600651551976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600651551976" />
   </component>
 </project>
