@@ -1,6 +1,6 @@
 # GitFlow
     GitFlow is a branching model used for collaboration and scaling the development workflow.
-    GitFlow can four key benefits: Parallel Development, Collaboration, Release Staging Area, and Support For Emergency Fixes
+    GitFlow has four key benefits: Parallel Development, Collaboration, Release Staging Area, and Support For Emergency Fixes
     
     - Parallel Development allows developers to isolate new development from finished work. New development (such as features and non-emergency bug fixes) is done in feature branches, and is only merged back into main body of code when the developers is happy that the code is ready for release.
     - Collaboration make it easier for two or more developers to collaborate on the same feature, because each feature branch is a sandbox where the only changes are the changes necessary to get the new feature working. That makes it very easy to see and follow what each collaborator is doing.
