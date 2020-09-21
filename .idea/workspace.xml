@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e39a87c7-442e-419c-aa23-bb03f8f43dd1" name="Default Changelist" comment="Fix: updated definition" />
+    <list default="true" id="e68bfdfa-575b-4e6f-b417-ad34e2439289" name="Default Changelist" comment="Fix: updated changelog">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GitFlow.md" beforeDir="false" afterPath="$PROJECT_DIR$/GitFlow.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,77 +165,6 @@
       <option name="project" value="LOCAL" />
       <updated>1600309726262</updated>
     </task>
-    <task id="LOCAL-00015" summary="Fix: updated links">
-      <created>1600311597488</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1600311597488</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Fix: updated links">
-      <created>1600317957431</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1600317957431</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Fix: updated links">
-      <created>1600318150901</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1600318150901</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Fix: updated links and formatting">
-      <created>1600318577356</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1600318577356</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Fix: updated links and formatting">
-      <created>1600318638151</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1600318638151</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Fix: updated links and formatting">
-      <created>1600318683271</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1600318683271</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Fix: updated links and formatting">
-      <created>1600395323345</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1600395323346</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Fix: updated readme and changelog">
-      <created>1600395530142</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1600395530142</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Feature: Added branch definition">
-      <created>1600563206916</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1600563206916</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Fix: updated definition">
-      <created>1600576453109</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1600576453109</updated>
-    </task>
-    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,35 +190,5 @@
     <MESSAGE value="Feature: Added index.md" />
     <MESSAGE value="Fix: Formatting" />
     <MESSAGE value="Fix: update links" />
-    <MESSAGE value="Fix: updated links" />
-    <MESSAGE value="Fix: updated links and formatting" />
-    <MESSAGE value="Fix: updated readme and changelog" />
-    <MESSAGE value="Feature: Added branch definition" />
-    <MESSAGE value="Fix: updated definition" />
-    <MESSAGE value="Feature: added explanation of GitFlow" />
-    <MESSAGE value="Fix: updated changelog" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix: updated changelog" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600618777804">
-      <screen x="0" y="23" width="2560" height="1337" />
-    </state>
-    <state x="968" y="434" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1600618777804" />
-    <state x="184" y="86" key="MergeDialog" timestamp="1600637983217">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600637983217" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600576457396">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600576457396" />
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600576421904">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600576421904" />
-    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog" timestamp="1600637979857">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="233" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600637979857" />
   </component>
 </project>
