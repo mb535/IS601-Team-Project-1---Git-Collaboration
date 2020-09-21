@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e68bfdfa-575b-4e6f-b417-ad34e2439289" name="Default Changelist" comment="Fix: updated changelog">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GitFlow.md" beforeDir="false" afterPath="$PROJECT_DIR$/GitFlow.md" afterDir="false" />
-    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -165,6 +162,7 @@
       <option name="project" value="LOCAL" />
       <updated>1600309726262</updated>
     </task>
+
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,5 +188,6 @@
     <MESSAGE value="Feature: Added index.md" />
     <MESSAGE value="Fix: Formatting" />
     <MESSAGE value="Fix: update links" />
+
   </component>
 </project>
